@@ -3,5 +3,3 @@
 working
 
 studying
-
-learning Git
