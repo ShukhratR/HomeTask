@@ -5,3 +5,6 @@ working
 studying
 
 learning Git
+
+practice conflict
+first shot
