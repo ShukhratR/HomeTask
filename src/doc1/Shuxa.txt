@@ -5,9 +5,3 @@ working
 studying
 
 learning Git
-
-practice branches and workflow
-
-practice conflict
-this is different
-forced conflict
